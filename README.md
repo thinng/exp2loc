@@ -1,5 +1,8 @@
 - DREAM Single Cell Transcriptomics Challenge's site: https://www.synapse.org/#!Synapse:syn15665609/wiki/582909
-- Leaderboards: https://www.synapse.org/#!Synapse:syn15665609/wiki/583247
+- Leaderboards: 
+https://www.synapse.org/#!Synapse:syn15665609/wiki/583247
+https://dream-sctc.uni.lu/ranking/team_rankings.html
+https://dream-sctc.uni.lu/ranking/post_team_rankings.html
 - Source is written in Python. It can be run in Jupyter Notebook.  
 - Data: ALL_files.zip at https://www.synapse.org/#!Synapse:syn16782362 
 - sub_challenge_1.ipynb: Source code and step by step instructions for Sub challenge 1
