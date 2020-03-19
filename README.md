@@ -1,4 +1,5 @@
-#### DREAM Single Cell Transcriptomics Challenge's site: https://www.synapse.org/#!Synapse:syn15665609/wiki/582909
+#### DREAM Single Cell Transcriptomics Challenge
+- https://www.synapse.org/#!Synapse:syn15665609/wiki/582909
 #### Leaderboards: 
 - https://www.synapse.org/#!Synapse:syn15665609/wiki/583247
 - https://dream-sctc.uni.lu/ranking/team_rankings.html
