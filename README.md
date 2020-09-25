@@ -9,7 +9,7 @@
 
 #### Python libraries needed:
 * sklearn: 
-     * for popular machine learning methods, including those for feature selection algorithms, such as variance-based ones. 
+     * for popular machine learning methods, including those for feature selection, such as variance-based algorithms. 
      * install: pip install scikit-learn
 * skfeature:  
    * for Multi-Cluster Feature Selection (MCFS) (Cai et al., 2010) and Nonnegative Discriminative Feature Selection (NDFS) (Li et al., 2012).
