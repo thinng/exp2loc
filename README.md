@@ -18,3 +18,8 @@ Li, Z., Yang, Y., Liu, J., Zhou, X., and Lu, H. (2012). Unsupervised feature sel
 - sub_challenge_1.ipynb: Source code and step by step instructions for Sub challenge 1
 - sub_challenge_2.ipynb: Source code and step by step instructions for Sub challenge 2
 - sub_challenge_3.ipynb: Source code and step by step instructions for Sub challenge 3
+
+* Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
+* Bullet list item 2
