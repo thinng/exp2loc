@@ -6,6 +6,12 @@
 - https://www.synapse.org/#!Synapse:syn15665609/wiki/583247
 #### Data: 
 - Data is freely available to Synapse users: ALL_files.zip at https://www.synapse.org/#!Synapse:syn16782362.
+
+#### Python libraries needed:
+- sklearn: for popular machine learning methods, including those for feature selection algorithms, such as variance-based ones.
+-- install pip install scikit-learn
+
+
 #### Source is written in Python. It can be run in Jupyter Notebook.  
 - sub_challenge_1.ipynb: Source code and step by step instructions for Sub challenge 1
 - sub_challenge_2.ipynb: Source code and step by step instructions for Sub challenge 2
