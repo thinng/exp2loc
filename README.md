@@ -6,6 +6,7 @@
 - https://www.synapse.org/#!Synapse:syn15665609/wiki/583247
 #### Data: 
 - Data is freely available to Synapse users: ALL_files.zip at https://www.synapse.org/#!Synapse:syn16782362.
+- Related data: https://github.com/thinng/exp2loc/blob/master/data.zip.
 
 #### Python libraries needed:
 * sklearn: 
@@ -18,8 +19,11 @@
    * install: pip install skfeature-chappers
 
 
-#### Source is written in Python. It can be run in Jupyter Notebook.  
-- sub_challenge_1.ipynb: Source code and step by step instructions for Sub challenge 1
-- sub_challenge_2.ipynb: Source code and step by step instructions for Sub challenge 2
-- sub_challenge_3.ipynb: Source code and step by step instructions for Sub challenge 3
+#### Source is written in Python. It can be run in Jupyter Notebook.
+* By sub challenge
+    * sub_challenge_1.ipynb: Source code and step by step instructions for Sub challenge 1
+    * sub_challenge_2.ipynb: Source code and step by step instructions for Sub challenge 2
+    * sub_challenge_3.ipynb: Source code and step by step instructions for Sub challenge 3
+* You may also want to choose your own combination of feature selection and cell prediction
+methods through using all_sub_challenges.ipynb
 
