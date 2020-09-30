@@ -1,9 +1,9 @@
-#### Ranking: https://www.life-science-alliance.org/content/lsa/3/11/e202000867.full.pdf (Figure 1)
-- sub_challenge_1: 1st
-- sub_challenge_2: 2nd
-- sub_challenge_3: 2nd
 #### DREAM Single Cell Transcriptomics Challenge
 - https://www.synapse.org/#!Synapse:syn15665609/wiki/582909
+#### Team Thin Nguyen's ranking: https://www.life-science-alliance.org/content/lsa/3/11/e202000867.full.pdf (Figure 1)
+- Sub challenge 1: 1<sup>st</sup>
+- Sub challenge 2: 2<sup>nd</sup>
+- Sub challenge 3: 2<sup>nd</sup>
 #### Leaderboards: 
 - https://dream-sctc.uni.lu/ranking/team_rankings.html
 - https://dream-sctc.uni.lu/ranking/post_team_rankings.html
