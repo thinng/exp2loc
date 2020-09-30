@@ -1,3 +1,7 @@
+#### Ranking: https://www.life-science-alliance.org/content/lsa/3/11/e202000867.full.pdf (Figure 1)
+- sub_challenge_1: 1st
+- sub_challenge_2: 2nd
+- sub_challenge_3: 2nd
 #### DREAM Single Cell Transcriptomics Challenge
 - https://www.synapse.org/#!Synapse:syn15665609/wiki/582909
 #### Leaderboards: 
