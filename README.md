@@ -25,9 +25,9 @@
 
 #### Source is written in Python. It can be run in Jupyter Notebook.
 * By sub challenge
-    * sub_challenge_1.ipynb: Source code and step by step instructions for Sub challenge 1
-    * sub_challenge_2.ipynb: Source code and step by step instructions for Sub challenge 2
-    * sub_challenge_3.ipynb: Source code and step by step instructions for Sub challenge 3
+    * sub_challenge_1.ipynb: Source code and step by step instructions for Sub challenge 1.
+    * sub_challenge_2.ipynb: Source code and step by step instructions for Sub challenge 2.
+    * sub_challenge_3.ipynb: Source code and step by step instructions for Sub challenge 3.
 * You may also want to choose your own combination of feature selection and cell prediction
-methods through using all_sub_challenges.ipynb
+methods through using all_sub_challenges.ipynb.
 
