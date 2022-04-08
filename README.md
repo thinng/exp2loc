@@ -30,4 +30,6 @@
     * sub_challenge_3.ipynb: Source code and step by step instructions for Sub challenge 3.
 * You may also want to choose your own combination of feature selection and cell prediction
 methods through using all_sub_challenges.ipynb.
+* You may also want to run all the combination of feature selection and cell prediction
+methods through using all_approaches_all_feature_selection.ipynb. Then you could score the performance of these combinations using evaluation.ipynb.
 
